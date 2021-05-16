@@ -1,2 +1,2 @@
 # Provas-Militares
-Compilado das provas dos principais concursos militares
+Compilado de provas dos principais concursos militares
